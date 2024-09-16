@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<MJRPAdmin.Entities.AcademicProg>
+
+<ul class="sidebar-menu" data-widget="tree" style="font-size:14px;">
+
+    @foreach (var menuItem in Model)
+    {
+            <li id="@menuItem.AcdProId">
+            <a href="/../Home/Course/@menuItem.AcdProId">
+
+                    <span style="padding-left:25px;font-size:15px">@menuItem.AcdProNm</span>
+                </a>
+            </li>
+    }
+</ul>

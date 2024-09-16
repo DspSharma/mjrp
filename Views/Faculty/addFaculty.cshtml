@@ -1,0 +1,36 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout/_AdminLayout.cshtml";
+
+}
+
+
+<section class="content container-fluid">
+
+    <div class="box box-info">
+        <div class="box-header with-border">
+            <h3 class="box-title">Add Faculty</h3>
+        </div>
+
+        <form class="form-horizontal" method="post" action="/Faculty/addFaculty" id="Faculty/addFaculty">
+            <div class="box-body">
+
+                <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 control-label">Tittle</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="Tittle" name="Tittle" placeholder="Tittle">
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="box-footer">
+
+                <button type="submit" class="btn btn-info pull-right">Save</button>
+            </div>
+
+        </form>
+    </div>
+
+</section>
+
+

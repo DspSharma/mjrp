@@ -1,0 +1,180 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout/_AdminLayout.cshtml";
+
+}
+@using MJRPAdmin.DTO.DtoOutPut;
+@model MJRPAdmin.DTO.DtoOutPut.FacultyOutPut;
+
+@{
+    var FilterResult = new[]
+    {
+       "Visible","InVisible"
+    };
+    var excelFileUpload = ViewData["UploadExcelData"] as List<UploadExcelOutPut>;
+}
+
+<style>
+    .form-container {
+        margin-left: 20px; 
+        margin-right: 20px;
+        padding-top:40px;
+    }
+
+    .text1 {
+        width: 44%;
+    }
+
+    .text2 {
+        margin-left: 740px;
+        margin-top: -73px;
+    }
+
+
+    /*table*/
+
+</style>
+
+@*
+<div class="form-container">
+    <form method="POST" action="/Faculty/uploadExcelFile" onsubmit="" enctype="multipart/form-data">
+       
+        <div class="form-group text1">
+            <label>Filter Results</label>
+            <select id="FilterResult" name="FilterResults" style="width:100%">
+                <option value="">Select FilterResult</option>
+                @foreach (var FilterResultList in FilterResult)
+                {
+                    <option value="@FilterResultList">@FilterResultList</option>
+                }
+            </select>
+        </div>
+
+        <div class="form-group text2">
+            <label>Faculty</label>
+          
+            <select id="faculty" name="Faculty" style="width:100%">
+                <option value="">Select Faculty</option>
+                @foreach (var facultyList in ViewData["facultydata"] as List<FacultyOutPut>)
+                {
+                    <option value="@facultyList.Id">@facultyList.Tittle</option>
+                }
+            </select>
+
+        </div>
+        <div class="form-group text1">
+            <label>HeaderRow</label>
+            <input type="text" id="HeaderRow" name="HeaderRow" class="form-control">
+        </div>
+        <div class="form-group text2">
+            <label>ResultRow</label>
+            <input type="text" id="ResultRow" name="ResultRow" class="form-control">
+        </div>
+        <div class="form-group text1">
+            <label>RowGap</label>
+            <input type="text" id="RowGap" name="RowGap" class="form-control">
+        </div>
+
+        <div class="form-group text2">
+            <label>RollNumberColumn</label>
+            <input type="text" id="RollNumberColumn" name="RollNumberColumn" class="form-control">
+        </div>
+
+        <div class="form-group text1">
+            <label>Result File</label>
+            <input type="file" id="ExcleFile" name="ExcleFile" class="form-control">
+        </div>
+      
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+</div>*@
+
+
+
+<div class="form-container">
+    <form method="POST" action="/Faculty/uploadExcelFile" onsubmit="return uploadExcelFile()" enctype="multipart/form-data">
+        <div>
+          
+        </div>
+       
+
+        <div class="form-group text1">
+            <label>Faculty</label>
+
+            <select id="facultyId" name="FacultyId" style="width:100%;height:34px;">
+                <option value="">Select Faculty</option>
+                @foreach (var facultyList in ViewData["facultydata"] as List<FacultyOutPut>)
+                {
+                    <option value="@facultyList.Id">@facultyList.Tittle</option>
+                }
+            </select>
+
+        </div>
+        <div class="form-group text2">
+            <label>HeaderRow</label>
+            <input type="text" id="headerRow" name="HeaderRow" class="form-control">
+        </div>
+        <div class="form-group text1">
+            <label>ResultRow</label>
+            <input type="text" id="resultRow" name="ResultRow" class="form-control">
+        </div>
+        <div class="form-group text2">
+            <label>RowGap</label>
+            <input type="text" id="rowGap" name="RowGap" class="form-control">
+        </div>
+
+        <div class="form-group text1">
+            <label>RollNumberColumn</label>
+            <input type="text" id="RollNumberColumn" name="RollNumberColumn" class="form-control">
+        </div>
+
+        <div class="form-group text2">
+            <label>Result File</label>
+            <input type="file" id="ExcleFile" name="ExcleFile" class="form-control">
+        </div>
+
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+</div>
+
+
+    <div class="box-body">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                   @* <th>SNo</th>
+                    <th>Result Description</th>
+                    <th>File</th>
+                    <th>ResultDate</th>
+                    <th>IsVisible</th>
+                    <th>Action</th>*@
+                <th>SNo</th>
+                <th>FacultyName</th>
+                <th>HeaderRow</th>
+                <th>ResultRow</th>
+                <th>RowGap</th>
+                <th>RollNumberColumn</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var i = 0;
+                }
+            @foreach (var getuploadfile in excelFileUpload)
+            {
+                <tr>
+                    <td>@(++i)</td>
+                    <td>@getuploadfile.FacultyName</td>
+                    <td>@getuploadfile.HeaderRow</td>
+                    <td>@getuploadfile.ResultRow</td>
+                    <td>@getuploadfile.RowGap</td>
+                    <td>@getuploadfile.RollNumberColumn</td>
+                </tr>
+            }
+
+               
+        </table>
+    </div>
+
+

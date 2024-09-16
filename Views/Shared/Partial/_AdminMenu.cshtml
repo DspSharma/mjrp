@@ -1,0 +1,39 @@
+﻿@{
+    var controller = ViewContext.RouteData.Values["Controller"].ToString();
+    var action = ViewContext.RouteData.Values["Action"].ToString();
+    string route = $"{controller}-{action}";
+}
+
+<ul class="sidebar-menu" data-widget="tree">
+    <li class="header">HEADER</li>
+    <!-- Optionally, you can add icons to the links -->
+    <li id="User-UserList"><a href="/../User/UserList"><i class="fa fa-circle"></i> <span>User</span></a></li>
+    <li id="Faculty-getFaculty"><a href="/../Faculty/getFaculty"><i class="fa fa-circle"></i> <span>Faculty</span></a></li>
+    <li id="Faculty-getFaculty"><a href="/../Course/courseList"><i class="fa fa-circle"></i> <span>Course</span></a></li>
+    <li id="Faculty-excelFileUpload"><a href="~/Result/Upload"><i class="fa fa-user"></i> <span>Upload Result</span></a></li>
+    @*
+       
+    <li id="User-getHoliday"><a href="/../User/getHoliday"><i class="fa fa-gift"></i> <span>Holiday</span></a></li>
+    <li id="User-userLeave"><a href="/../User/userLeave"><i class="fa fa-gift"></i> <span>Leave</span></a></li>*@
+
+</ul>
+
+<script>
+    $(document).ready(function () {
+        $("#@route").addClass('active');
+    });
+</script>
+
+
+
+@*<li class="treeview">
+    <a href="#"><i class="fa fa-link"></i> <span>Multilevel</span>
+    <span class="pull-right-container">
+        <i class="fa fa-angle-left pull-right"></i>
+        </span>
+    </a>
+    <ul class="treeview-menu">
+    <li><a href="#">Link in level 2</a></li>
+    <li><a href="#">Link in level 2</a></li>
+    </ul>
+</li>*@

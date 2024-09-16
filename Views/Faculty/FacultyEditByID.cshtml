@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout/_AdminLayout.cshtml";
+
+}
+
+@using MJRPAdmin.DTO.DtoOutPut;
+@model MJRPAdmin.DTO.DtoOutPut.FacultyOutPut;
+
+@{
+    var facultybyId = ViewData["FacultyData"] as FacultyOutPut;
+}
+
+<section class="content container-fluid">
+
+    <div class="box box-info">
+        <div class="box-header with-border">
+            <h3 class="box-title">Update Faculty</h3>
+        </div>
+
+        <form class="form-horizontal" method="post" action="/Faculty/facultyUpdate" id="Faculty/facultyUpdate">
+            <input type="hidden" asp-for="Id" value="@facultybyId.Id" />
+            <div class="box-body">
+
+                <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 control-label">Tittle</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="Tittle" name="Tittle" value="@facultybyId.Tittle" placeholder="Tittle">
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="box-footer">
+
+                <button type="submit" class="btn btn-info pull-right">Update</button>
+            </div>
+
+        </form>
+    </div>
+
+</section>
+
+

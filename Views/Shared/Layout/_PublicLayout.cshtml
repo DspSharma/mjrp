@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Web Panel</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="stylesheet" href="~/assets/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/assets/bower_components/font-awesome/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="~/assets/bower_components/Ionicons/css/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/assets/dist/css/AdminLTE.min.css">
+    <link rel="stylesheet" href="~/assets/dist/css/skins/skin-blue.min.css">
+    <!-- Google Font -->
+
+    <link rel="stylesheet" href="~/assets/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="~/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="~/assets/js/toastr.js"></script>
+    <script src="~/assets/js/validation.js"></script>
+
+
+
+    <link href="http://code.jquery.com/ui/1.9.2/themes/smoothness/jquery-ui.css" rel="stylesheet" />
+    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+</head>
+
+<style>
+    .text {
+        margin-left: 90px;
+        margin-top: -60px;
+        color: white;
+        font-size: 40px;
+    }
+
+    .headerBorder {
+        min-height: 20px;
+        background-color: green;
+        margin-bottom: 1px;
+        margin-left: -4px;
+    }
+
+    .sidebarname {
+        margin-top: 45px;
+        color: white;
+        margin-left: 91px;
+    }
+
+    .main-sidebar {
+        width: 100% !important;
+    }
+
+    .table {
+        margin-left: auto !important;
+    }
+
+    .wrapper {
+        background-color: #fff !important;
+    }
+
+
+
+    .sidebarname {
+        margin-top: -40px;
+        color: white;
+        margin-left: 32px;
+    }
+
+    .skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a, .skin-blue .sidebar-menu > li.menu-open > a {
+        color: #fff;
+        background: lightgray;
+    }
+
+</style>
+
+
+<body class="hold-transition skin-blue sidebar-mini">
+
+    <div class="wrapper">
+
+        <header class="main-header">
+
+
+            @*  <a href="index2.html" class="logo">
+            <span class="logo-mini"><b>AP</b>T</span>
+            <span class="logo-lg"><b>WebPanel</b></span>
+            </a>
+            *@
+
+
+            @*---*@
+            <nav class="navbar navbar-static-top" role="navigation" style="margin-left:-4px;">
+                <div>
+                  @*  <ul class="nav navbar-nav" style="padding-top:60px;">
+                        <li class="dropdown user user-menu">
+                            <img src="~/assets/Logo/logo-header.png" alt="AVATAR" style=" width: 50px;margin-right: 1200px;margin-top: -61px;">
+                        </li>
+                    </ul>*@
+                    <img src="~/assets/Logo/logo-header.png" alt="AVATAR" style="margin:auto;width:30%;display:block">
+                </div>
+            </nav>
+
+
+
+
+
+
+            @*---*@
+
+
+
+        </header>
+        <nav class="navbar navbar-static-top headerBorder" role="navigation">
+
+        </nav>
+
+        <div class="row" style="min-height:800px;">
+            <div class="col-sm-2">
+                <aside class="main-sidebar" style=" background-color:#3c8dbc;">
+                    <section class="sidebar">
+                        <h2 class="sidebarname">Faculty</h2>
+                        @* <div class="user-panel">
+                        <div class="pull-left image">
+                        <img src="~/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                        </div>
+                        <div class="pull-left info">
+
+
+                        <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
+                        </div>
+                        </div>*@
+
+
+                        <!-- /.search form -->
+                        <!-- Sidebar Menu -->
+                        @* @Html.Partial("_UserMainMenu")*@
+                        @await Component.InvokeAsync("FacultyList")
+                        @* @Html.Partial("../Shared/Partial/FacultyList") *@
+
+                        <!-- /.sidebar-menu -->
+                    </section>
+                    <!-- /.sidebar -->
+                </aside>
+            </div>
+
+            <div class="col-sm-10">
+                <!-- Content Wrapper. Contains page content -->
+                <div>
+                    <!-- Content Header (Page header) -->
+                    @RenderBody()
+                    <!-- /.content -->
+                </div>
+                <!-- /.content-wrapper -->
+            </div>
+
+        </div>
+
+
+
+        <!-- Main Footer -->
+        <footer class="main-footer">
+            <!-- Default to the left -->
+            <strong style="margin-left:162px;">Copyright &copy; 2023 <a href="https://mjrpuniversity.ac.in">MJRP</a>.</strong> All rights reserved.
+        </footer>
+    </div>
+    <!-- ./wrapper -->
+    <!-- REQUIRED JS SCRIPTS -->
+    <!-- jQuery 3 -->
+    <script src="~/assets/bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap 3.3.7 -->
+    <script src="~/assets/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/assets/dist/js/adminlte.min.js"></script>
+</body>
+</html>

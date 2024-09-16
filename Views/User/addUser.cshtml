@@ -1,0 +1,93 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout/_AdminLayout.cshtml";
+
+}
+
+
+@using MJRPAdmin.DTO.DtoOutPut;
+@model MJRPAdmin.DTO.DtoOutPut.UserOutPut;
+
+
+
+<style>
+    .lable1 {
+        margin-left: -103px;
+    }
+
+    .lable2 {
+        margin-left: 41%;
+        margin-top: -50px;
+    }
+
+    .textbox1 {
+        width: 40%;
+    }
+
+    .textbox2 {
+        margin-left: 57%;
+        width: 40%;
+        margin-top: -50px;
+    }
+</style>
+
+<section class="content-header">
+    <h1>
+        User
+    </h1>
+</section>
+
+<section class="content container-fluid">
+
+    <div class="box box-info">
+
+        <form class="form-horizontal" method="post" action="/User/addUser" onsubmit="return addUpdateUsers()">
+            
+            <div class="box-body">
+                <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 control-label lable1">Name</label>
+                    <div class="col-sm-10 textbox1">
+                        <input type="text"  class="form-control" id="name" name="Name" placeholder="Name">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 control-label lable2">Email</label>
+                    <div class="col-sm-10 textbox2">
+                        <input type="email" class="form-control" id="email"  name="Email" placeholder="Email">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label  lable1 ">Mobile</label>
+                    <div class="col-sm-10  textbox1 ">
+                        <input type="text"  class="form-control" id="mobile"  name="Mobile" placeholder="Mobile">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 control-label lable2">Password</label>
+                    <div class="col-sm-10 textbox2">
+                        <input type="text" class="form-control" id="password"  name="Password" placeholder="Password">
+                    </div>
+                </div>
+
+
+
+                <div class="box-footer">
+
+                    <button type="submit" class="btn btn-info pull-right">Save</button>
+                </div>
+
+        </form>
+
+    </div>
+
+</section>
+
+@if (TempData["error"] != null)
+{
+    <script>
+        var message = '@TempData["error"]';
+        toastr.error(message);
+    </script>
+}

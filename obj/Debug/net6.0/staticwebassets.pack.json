@@ -1,0 +1,2553 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MJRPAdmin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MJRPAdmin.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\Faculty.json",
+      "PackagePath": "staticwebassets\\Faculty.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\Upload\\ResultExcel\\04092023132209663B.Sc.(HONS) AGRICULT.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\ResultExcel\\04092023132209663B.Sc.(HONS) AGRICULT.xlsx"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\Upload\\ResultJson\\22967.json",
+      "PackagePath": "staticwebassets\\Upload\\ResultJson\\22967.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\Logo\\logo-header.png",
+      "PackagePath": "staticwebassets\\assets\\Logo\\logo-header.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap-slider\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap-slider\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap-slider\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap-slider\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap-slider\\locks.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap-slider\\locks.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\grunt\\configBridge.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\grunt\\configBridge.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\grunt\\npm-shrinkwrap.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\grunt\\npm-shrinkwrap.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\less\\.csscomb.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\less\\.csscomb.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\bootstrap\\package.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\datatables.net-bs\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\datatables.net-bs\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\datatables.net-bs\\License.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\datatables.net-bs\\License.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\datatables.net-bs\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\datatables.net-bs\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\datatables.net-bs\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\datatables.net-bs\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\datatables.net-bs\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\datatables.net-bs\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\datatables.net\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\datatables.net\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\datatables.net\\License.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\datatables.net\\License.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\datatables.net\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\datatables.net\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\inputmask\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\inputmask\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\inputmask\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\inputmask\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-knob\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-knob\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-knob\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-knob\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-knob\\index.html",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-knob\\index.html"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-knob\\knob.jquery.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-knob\\knob.jquery.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-knob\\package.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-knob\\package.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-knob\\secretplan.jpg",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-knob\\secretplan.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\AUTHORS.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\component.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\component.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\composer.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\composer.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\package.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\package.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\accordion.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\accordion.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\all.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\all.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\autocomplete.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\autocomplete.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\base.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\base.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\button.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\button.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\core.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\core.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\datepicker.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\dialog.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\dialog.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\draggable.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\draggable.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\menu.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\menu.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\progressbar.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\progressbar.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\resizable.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\resizable.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\selectable.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\selectable.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\selectmenu.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\selectmenu.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\slider.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\slider.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\sortable.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\sortable.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\spinner.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\spinner.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\tabs.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\tabs.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\base\\tooltip.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\base\\tooltip.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_diagonals-thick_8_333333_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_diagonals-thick_8_333333_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_flat_65_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_flat_65_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_glass_40_111111_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_glass_40_111111_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_glass_55_1c1c1c_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_glass_55_1c1c1c_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_highlight-hard_100_f9f9f9_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_highlight-hard_100_f9f9f9_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_highlight-hard_40_aaaaaa_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_highlight-hard_40_aaaaaa_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_highlight-soft_50_aaaaaa_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_highlight-soft_50_aaaaaa_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_inset-hard_45_cd0a0a_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_inset-hard_45_cd0a0a_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_inset-hard_55_ffeb80_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-bg_inset-hard_55_ffeb80_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_4ca300_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_4ca300_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_bbbbbb_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_bbbbbb_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_ededed_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_ededed_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_ffcf29_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_ffcf29_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\black-tie\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_diagonals-thick_75_f3d8d8_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_diagonals-thick_75_f3d8d8_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_dots-small_65_a6a6a6_2x2.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_dots-small_65_a6a6a6_2x2.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_flat_0_333333_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_flat_0_333333_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_flat_65_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_flat_65_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_glass_55_fbf8ee_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_glass_55_fbf8ee_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_highlight-hard_100_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_highlight-hard_100_eeeeee_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_highlight-hard_100_f6f6f6_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_highlight-hard_100_f6f6f6_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_highlight-soft_15_cc0000_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-bg_highlight-soft_15_cc0000_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-icons_004276_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-icons_004276_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\blitzer\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_diagonals-thick_90_eeeeee_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_diagonals-thick_90_eeeeee_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_flat_15_cd0a0a_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_flat_15_cd0a0a_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_glass_100_e4f1fb_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_glass_100_e4f1fb_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_glass_50_3baae3_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_glass_50_3baae3_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_glass_80_d7ebf9_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_glass_80_d7ebf9_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_highlight-hard_100_f2f5f7_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_highlight-hard_100_f2f5f7_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_highlight-hard_70_000000_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_highlight-hard_70_000000_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_highlight-soft_100_deedf7_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_highlight-soft_100_deedf7_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_highlight-soft_25_ffef8f_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-bg_highlight-soft_25_ffef8f_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_2694e8_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_2694e8_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_3d80b3_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_3d80b3_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_72a7cf_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_72a7cf_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\cupertino\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_flat_30_cccccc_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_flat_30_cccccc_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_flat_50_5c5c5c_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_flat_50_5c5c5c_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_glass_40_ffc73d_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_glass_40_ffc73d_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-hard_20_0972a5_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-hard_20_0972a5_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-soft_33_003147_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-soft_33_003147_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-soft_35_222222_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-soft_35_222222_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-soft_44_444444_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-soft_44_444444_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-soft_80_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_highlight-soft_80_eeeeee_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_loop_25_000000_21x21.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-bg_loop_25_000000_21x21.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_4b8e0b_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_4b8e0b_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_a83300_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_a83300_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_cccccc_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_cccccc_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dark-hive\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_diagonals-thick_15_0b3e6f_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_diagonals-thick_15_0b3e6f_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_dots-medium_30_0b58a2_4x4.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_dots-medium_30_0b58a2_4x4.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_dots-small_20_333333_2x2.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_dots-small_20_333333_2x2.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_dots-small_30_a32d00_2x2.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_dots-small_30_a32d00_2x2.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_dots-small_40_00498f_2x2.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_dots-small_40_00498f_2x2.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_flat_40_292929_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_flat_40_292929_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_gloss-wave_20_111111_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-bg_gloss-wave_20_111111_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-icons_00498f_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-icons_00498f_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-icons_98d2fb_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-icons_98d2fb_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-icons_9ccdfc_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-icons_9ccdfc_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\dot-luv\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_flat_0_eeeeee_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_flat_0_eeeeee_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_flat_55_994d53_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_flat_55_994d53_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_flat_55_fafafa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_flat_55_fafafa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_gloss-wave_30_3d3644_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_gloss-wave_30_3d3644_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_highlight-soft_100_dcd9de_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_highlight-soft_100_dcd9de_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_highlight-soft_100_eae6ea_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_highlight-soft_100_eae6ea_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_highlight-soft_25_30273a_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_highlight-soft_25_30273a_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_highlight-soft_45_5f5964_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-bg_highlight-soft_45_5f5964_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_734d99_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_734d99_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_8d78a5_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_8d78a5_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_a8a3ae_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_a8a3ae_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_ebccce_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_ebccce_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\eggplant\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_diagonals-small_25_c5ddfc_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_diagonals-small_25_c5ddfc_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_diagonals-thick_20_e69700_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_diagonals-thick_20_e69700_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_diagonals-thick_22_1484e6_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_diagonals-thick_22_1484e6_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_diagonals-thick_26_2293f7_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_diagonals-thick_26_2293f7_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_flat_0_e69700_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_flat_0_e69700_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_flat_0_e6b900_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_flat_0_e6b900_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_highlight-soft_100_f9f9f9_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_highlight-soft_100_f9f9f9_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_inset-hard_100_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-bg_inset-hard_100_eeeeee_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_0a82eb_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_0a82eb_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_0b54d5_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_0b54d5_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_5fa5e3_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_5fa5e3_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_fcdd4a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_fcdd4a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\excite-bike\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_flat_0_eeeeee_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_flat_0_eeeeee_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_flat_55_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_flat_55_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_highlight-soft_100_f6f6f6_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_highlight-soft_100_f6f6f6_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_highlight-soft_25_0073ea_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_highlight-soft_25_0073ea_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_highlight-soft_50_dddddd_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-bg_highlight-soft_50_dddddd_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_0073ea_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_0073ea_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_666666_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_666666_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_ff0084_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_ff0084_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\flick\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\flick\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_diagonals-small_40_db4865_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_diagonals-small_40_db4865_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_diagonals-small_50_93c3cd_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_diagonals-small_50_93c3cd_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_diagonals-small_50_ff3853_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_diagonals-small_50_ff3853_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_diagonals-small_75_ccd232_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_diagonals-small_75_ccd232_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_dots-medium_80_ffff38_4x4.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_dots-medium_80_ffff38_4x4.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_dots-small_35_35414f_2x2.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_dots-small_35_35414f_2x2.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_flat_75_ba9217_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_flat_75_ba9217_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_white-lines_85_f7f7ba_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-bg_white-lines_85_f7f7ba_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_88a206_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_88a206_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_c02669_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_c02669_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_e1e463_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_e1e463_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_ffeb33_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_ffeb33_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\hot-sneaks\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_flat_75_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_flat_75_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_glass_100_f5f0e5_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_glass_100_f5f0e5_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_glass_25_cb842e_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_glass_25_cb842e_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_glass_70_ede4d4_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_glass_70_ede4d4_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_highlight-hard_100_f4f0ec_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_highlight-hard_100_f4f0ec_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_highlight-hard_65_fee4bd_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_highlight-hard_65_fee4bd_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_highlight-hard_75_f5f5b5_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_highlight-hard_75_f5f5b5_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_inset-soft_100_f4f0ec_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-bg_inset-soft_100_f4f0ec_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_c47a23_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_c47a23_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_cb672b_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_cb672b_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_f08000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_f08000_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_f35f07_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_f35f07_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_ff7519_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_ff7519_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\humanity\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\humanity\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_diagonals-small_0_aaaaaa_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_diagonals-small_0_aaaaaa_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_diagonals-thick_15_444444_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_diagonals-thick_15_444444_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_diagonals-thick_95_ffdc2e_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_diagonals-thick_95_ffdc2e_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_glass_55_fbf5d0_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_glass_55_fbf5d0_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_highlight-hard_30_285c00_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_highlight-hard_30_285c00_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_highlight-soft_33_3a8104_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_highlight-soft_33_3a8104_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_highlight-soft_50_4eb305_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_highlight-soft_50_4eb305_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_highlight-soft_60_4ca20b_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_highlight-soft_60_4ca20b_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_inset-soft_10_285c00_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-bg_inset-soft_10_285c00_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-icons_4eb305_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-icons_4eb305_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-icons_72b42d_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-icons_72b42d_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\le-frog\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_glass_15_5f391b_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_glass_15_5f391b_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_gloss-wave_20_1c160d_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_gloss-wave_20_1c160d_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_gloss-wave_25_453326_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_gloss-wave_25_453326_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_gloss-wave_30_44372c_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_gloss-wave_30_44372c_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_highlight-soft_20_201913_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_highlight-soft_20_201913_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_highlight-soft_20_619226_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_highlight-soft_20_619226_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_inset-soft_10_201913_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-bg_inset-soft_10_201913_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_9bcc60_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_9bcc60_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_add978_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_add978_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_e3ddc9_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_e3ddc9_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_f1fd86_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_f1fd86_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\mint-choc\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_flat_0_eeeeee_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_flat_0_eeeeee_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_flat_55_c0402a_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_flat_55_c0402a_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_flat_55_eeeeee_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_flat_55_eeeeee_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_glass_100_f8f8f8_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_glass_100_f8f8f8_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_glass_35_dddddd_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_glass_35_dddddd_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_glass_60_eeeeee_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_glass_60_eeeeee_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_inset-hard_75_999999_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_inset-hard_75_999999_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_inset-soft_50_c9c9c9_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-bg_inset-soft_50_c9c9c9_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_3383bb_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_3383bb_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_70b2e1_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_70b2e1_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_999999_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_999999_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_fbc856_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\images\\ui-icons_fbc856_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\overcast\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\overcast\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_diagonal-maze_20_6e4f1c_10x10.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_diagonal-maze_20_6e4f1c_10x10.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_diagonal-maze_40_000000_10x10.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_diagonal-maze_40_000000_10x10.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_10_eceadf_60x60.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_10_eceadf_60x60.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_10_f8f7f6_60x60.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_10_f8f7f6_60x60.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_15_eceadf_60x60.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_15_eceadf_60x60.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_15_f7f3de_60x60.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_15_f7f3de_60x60.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_15_ffffff_60x60.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_15_ffffff_60x60.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_65_654b24_60x60.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_65_654b24_60x60.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_68_b83400_60x60.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-bg_fine-grain_68_b83400_60x60.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_3572ac_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_3572ac_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_8c291d_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_8c291d_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_b83400_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_b83400_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_fbdb93_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_fbdb93_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\pepper-grinder\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_flat_55_fbec88_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_flat_55_fbec88_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\redmond\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\redmond\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\smoothness\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_glass_55_fcf0ba_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_glass_55_fcf0ba_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_gloss-wave_100_ece8da_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_gloss-wave_100_ece8da_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-hard_100_f5f3e5_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-hard_100_f5f3e5_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-hard_100_fafaf4_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-hard_100_fafaf4_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-hard_15_459e00_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-hard_15_459e00_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-hard_95_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-hard_95_cccccc_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-soft_25_67b021_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-soft_25_67b021_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-soft_95_ffedad_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_highlight-soft_95_ffedad_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_inset-soft_15_2b2922_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-bg_inset-soft_15_2b2922_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_808080_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_808080_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_847e71_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_847e71_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_8DC262_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_8DC262_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_eeeeee_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_eeeeee_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\south-street\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\south-street\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_flat_55_999999_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_flat_55_999999_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_flat_75_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_flat_75_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_glass_45_0078ae_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_glass_45_0078ae_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_glass_55_f8da4e_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_glass_55_f8da4e_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_glass_75_79c9ec_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_glass_75_79c9ec_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_gloss-wave_45_e14f1c_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_gloss-wave_45_e14f1c_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_gloss-wave_50_6eac2c_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_gloss-wave_50_6eac2c_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_gloss-wave_75_2191c0_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_gloss-wave_75_2191c0_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_0078ae_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_0078ae_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_056b93_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_056b93_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_e0fdff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_e0fdff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_f5e175_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_f5e175_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_f7a50d_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_f7a50d_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_fcd113_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\images\\ui-icons_fcd113_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\start\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\start\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_diagonals-medium_20_d34d17_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_diagonals-medium_20_d34d17_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_flat_30_cccccc_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_flat_30_cccccc_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_flat_50_5c5c5c_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_flat_50_5c5c5c_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_gloss-wave_45_817865_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_gloss-wave_45_817865_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_gloss-wave_60_fece2f_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_gloss-wave_60_fece2f_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_gloss-wave_70_ffdd57_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_gloss-wave_70_ffdd57_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_gloss-wave_90_fff9e5_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_gloss-wave_90_fff9e5_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_highlight-soft_100_feeebd_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_highlight-soft_100_feeebd_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_inset-soft_30_ffffff_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-bg_inset-soft_30_ffffff_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_3d3d3d_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_3d3d3d_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_bd7b00_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_bd7b00_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_d19405_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_d19405_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_eb990f_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_eb990f_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_ed9f26_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_ed9f26_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_fadc7a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_fadc7a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_ffe180_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\images\\ui-icons_ffe180_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\sunny\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\sunny\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_10_4f4221_10x8.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_10_4f4221_10x8.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_20_372806_10x8.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_20_372806_10x8.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_25_675423_10x8.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_25_675423_10x8.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_25_d5ac5d_10x8.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_25_d5ac5d_10x8.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_8_261803_10x8.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_8_261803_10x8.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_8_443113_10x8.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_diamond_8_443113_10x8.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_flat_75_ddd4b0_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_flat_75_ddd4b0_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_highlight-hard_65_fee4bd_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-bg_highlight-hard_65_fee4bd_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_070603_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_070603_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_e8e2b5_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_e8e2b5_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_e9cd86_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_e9cd86_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_efec9f_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_efec9f_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_f2ec64_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_f2ec64_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_f9f2bd_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_f9f2bd_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_ff7519_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\images\\ui-icons_ff7519_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\swanky-purse\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_diagonals-small_50_262626_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_diagonals-small_50_262626_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_flat_0_303030_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_flat_0_303030_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_flat_0_4c4c4c_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_flat_0_4c4c4c_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_glass_40_0a0a0a_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_glass_40_0a0a0a_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_glass_55_f1fbe5_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_glass_55_f1fbe5_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_glass_60_000000_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_glass_60_000000_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_gloss-wave_55_000000_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_gloss-wave_55_000000_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_gloss-wave_85_9fda58_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_gloss-wave_85_9fda58_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_gloss-wave_95_f6ecd5_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-bg_gloss-wave_95_f6ecd5_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_000000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_000000_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_1f1f1f_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_1f1f1f_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_9fda58_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_9fda58_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_b8ec79_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_b8ec79_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\trontastic\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_flat_30_cccccc_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_flat_30_cccccc_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_flat_50_5c5c5c_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_flat_50_5c5c5c_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_glass_20_555555_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_glass_20_555555_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_glass_40_0078a3_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_glass_40_0078a3_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_glass_40_ffc73d_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_glass_40_ffc73d_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_gloss-wave_25_333333_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_gloss-wave_25_333333_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_highlight-soft_80_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_highlight-soft_80_eeeeee_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_inset-soft_25_000000_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_inset-soft_25_000000_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_inset-soft_30_f58400_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-bg_inset-soft_30_f58400_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_4b8e0b_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_4b8e0b_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_a83300_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_a83300_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_cccccc_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_cccccc_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-darkness\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_diagonals-thick_20_666666_40x40.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_flat_10_000000_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_flat_10_000000_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_glass_100_f6f6f6_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_glass_100_f6f6f6_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_glass_100_fdf5ce_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_228ef1_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_228ef1_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_ef8c08_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_ef8c08_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_ffd27a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_ffd27a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\ui-lightness\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_gloss-wave_16_121212_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_gloss-wave_16_121212_500x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_highlight-hard_15_888888_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_highlight-hard_15_888888_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_highlight-hard_55_555555_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_highlight-hard_55_555555_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_highlight-soft_35_adadad_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_highlight-soft_35_adadad_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_highlight-soft_60_dddddd_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_highlight-soft_60_dddddd_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_inset-soft_15_121212_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-bg_inset-soft_15_121212_1x100.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_666666_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_666666_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_aaaaaa_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_aaaaaa_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_bbbbbb_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_bbbbbb_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_c98000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_c98000_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_cccccc_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_cccccc_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_f29a00_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\images\\ui-icons_f29a00_256x240.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery-ui\\themes\\vader\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery-ui\\themes\\vader\\theme.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery\\AUTHORS.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery\\external\\sizzle\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery\\external\\sizzle\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\jquery\\src\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\jquery\\src\\.eslintrc.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\raphael\\.bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\raphael\\.bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\raphael\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\raphael\\bower.json"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\raphael\\dev\\banner.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\raphael\\dev\\banner.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\bower_components\\raphael\\license.txt",
+      "PackagePath": "staticwebassets\\assets\\bower_components\\raphael\\license.txt"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\css\\site.css",
+      "PackagePath": "staticwebassets\\assets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\css\\util.css",
+      "PackagePath": "staticwebassets\\assets\\css\\util.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\AdminLTE.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\AdminLTE.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\alt\\AdminLTE-bootstrap-social.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\alt\\AdminLTE-bootstrap-social.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\alt\\AdminLTE-fullcalendar.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\alt\\AdminLTE-fullcalendar.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\alt\\AdminLTE-select2.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\alt\\AdminLTE-select2.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\alt\\AdminLTE-select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\alt\\AdminLTE-select2.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\alt\\AdminLTE-without-plugins.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\alt\\AdminLTE-without-plugins.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\alt\\AdminLTE-without-plugins.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\alt\\AdminLTE-without-plugins.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\_all-skins.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\_all-skins.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\_all-skins.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\_all-skins.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-black-light.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-black-light.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-black-light.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-black-light.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-black.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-black.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-black.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-black.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-blue-light.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-blue-light.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-blue-light.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-blue-light.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-blue.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-blue.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-blue.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-blue.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-green-light.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-green-light.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-green-light.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-green-light.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-green.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-green.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-green.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-green.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-purple-light.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-purple-light.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-purple-light.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-purple-light.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-purple.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-purple.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-purple.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-purple.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-red-light.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-red-light.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-red-light.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-red-light.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-red.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-red.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-red.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-red.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-yellow-light.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-yellow-light.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-yellow-light.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-yellow.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-yellow.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\css\\skins\\skin-yellow.min.css",
+      "PackagePath": "staticwebassets\\assets\\dist\\css\\skins\\skin-yellow.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\avatar04.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\default-50x50.gif",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\default-50x50.gif"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\assets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\assets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\assets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\images\\error.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\error.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\images\\icons\\userimage.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\userimage.png"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\images\\logout.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logout.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\images\\search.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\search.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\images\\user1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user1.jpg"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\assets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\js\\toastr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\toastr.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\assets\\js\\validation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\validation.js"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\dotnet\\MJRPAdmin\\wwwroot\\fileDb\\User.json",
+      "PackagePath": "staticwebassets\\fileDb\\User.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MJRPAdmin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MJRPAdmin.props",
+      "PackagePath": "build\\MJRPAdmin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MJRPAdmin.props",
+      "PackagePath": "buildMultiTargeting\\MJRPAdmin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MJRPAdmin.props",
+      "PackagePath": "buildTransitive\\MJRPAdmin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

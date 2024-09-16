@@ -1,0 +1,95 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout/_PublicLayout.cshtml";
+
+}
+
+@using MJRPAdmin.DTO.DtoOutPut;
+@model MJRPAdmin.DTO.DtoOutPut.CourseOutput;
+
+@{
+    var courseOutput = ViewData["courseData"] as CourseOutput;
+    var id = ViewData["id"];
+    int intValue = Convert.ToInt32(id);
+}
+
+<style>
+    .table {
+        margin-left: 130px;
+        width: 100%;
+    }
+</style>
+
+@if (intValue == 1)
+{
+    <h1 style="margin-left:45%;">Engineering</h1>
+}
+else if (intValue == 2)
+{
+    <h1 style="margin-left:45%;">Management</h1>
+}
+else if (intValue == 3)
+{
+    <h1 style="margin-left:45%;">Polytechnic</h1>
+}
+else if (intValue == 4)
+{
+    <h1 style="margin-left:45%;">Law</h1>
+}
+else if (intValue == 5)
+{
+    <h1 style="margin-left:45%;">Education</h1>
+}
+else if (intValue == 6)
+{
+    <h1 style="margin-left:45%;">HealthCare</h1>
+}
+else if (intValue == 7)
+{
+    <h1 style="margin-left:45%;">Media and Mass Communication</h1>
+}
+else if (intValue == 8)
+{
+    <h1 style="margin-left:45%;">Fashion Design and Technology</h1>
+}
+else if (intValue == 9)
+{
+    <h1 style="margin-left:45%;">Computer Science</h1>
+}
+else if (intValue == 10)
+{
+    <h1 style="margin-left:45%;">Science</h1>
+}
+else if (intValue == 11)
+{
+    <h1 style="margin-left:45%;">Commerce</h1>
+}
+else if (intValue == 12)
+{
+    <h1 style="margin-left:45%;">Arts</h1>
+}
+else if (intValue == 13)
+{
+    <h1 style="margin-left:45%;">Yoga</h1>
+}
+else if (intValue == 14)
+{
+    <h1 style="margin-left:45%;">Film Technology</h1>
+}
+else if (intValue == 15)
+{
+    <h1 style="margin-left:45%;">Agriculture</h1>
+}
+
+<table class="table">
+
+    <tbody>
+
+
+        @foreach (var uploadResult in courseOutput.UploadResult)
+        {
+            <tr>
+                <td align="left"><a style="color:blue;font-size:20px;" href="/../Home/Result?resultId=@uploadResult.RecId">@uploadResult.ResultDescription</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

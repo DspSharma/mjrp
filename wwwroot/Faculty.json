@@ -1,0 +1,114 @@
+[
+  {
+    "Id": 1,
+    "Tittle": "Engineering & Technology.",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Tittle": "Management",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 3,
+    "Tittle": "Polytechnic & ITI",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 4,
+    "Tittle": "Law",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 5,
+    "Tittle": "Education",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 6,
+    "Tittle": "Healthcare & Allied Sciences",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 7,
+    "Tittle": "Media and Mass Communication",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 8,
+    "Tittle": "Fashion Design and Technology",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 9,
+    "Tittle": "Computer Science & IT",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 10,
+    "Tittle": "Science",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 11,
+    "Tittle": "Commerce",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 12,
+    "Tittle": "Arts",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 13,
+    "Tittle": "Yoga & Vedic Science",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 14,
+    "Tittle": "Film Technology",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 15,
+    "Tittle": "Agriculture",
+    "IsActive": true,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 16,
+    "Tittle": "Shri Balaji Academy",
+    "IsActive": true,
+    "CreatedAt": "2023-07-25T08:35:01.000764Z",
+    "UpdatedAt": "2023-07-25T08:35:01.5036287Z"
+  }
+]

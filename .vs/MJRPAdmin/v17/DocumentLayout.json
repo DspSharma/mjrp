@@ -1,0 +1,936 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet\\MJRPAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\shared\\partial\\_adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\shared\\partial\\_adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\shared\\layout\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\shared\\layout\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\shared\\layout\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\shared\\layout\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\shared\\layout\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\shared\\layout\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\course\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\course\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\service\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:service\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\dto\\dtoinput\\uploadexcelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:dto\\dtoinput\\uploadexcelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\wwwroot\\faculty.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:wwwroot\\faculty.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\controllers\\admin\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:controllers\\admin\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\service\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:service\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\controllers\\admin\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:controllers\\admin\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\controllers\\admin\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:controllers\\admin\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\controllers\\web\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:controllers\\web\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\controllers\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:controllers\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\home\\showresultnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\home\\showresultnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\course\\courselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\course\\courselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\faculty\\excelfileupload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\faculty\\excelfileupload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\models\\uploadexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:models\\uploadexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\dto\\dtooutput\\uploadexceloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:dto\\dtooutput\\uploadexceloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\service\\interfaces\\ifacultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:service\\interfaces\\ifacultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\faculty\\getfaculty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\faculty\\getfaculty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\faculty\\addfaculty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\faculty\\addfaculty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\dto\\dtooutput\\facultyoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:dto\\dtooutput\\facultyoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\user\\usereditbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\user\\usereditbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\dto\\dtooutput\\useroutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:dto\\dtooutput\\useroutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\user\\userprofileedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\user\\userprofileedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\dto\\dtoinput\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:dto\\dtoinput\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\misc\\miscmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:misc\\miscmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tagosys\\.nuget\\packages\\epplus\\6.2.4\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\views\\faculty\\facultyeditbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:views\\faculty\\facultyeditbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\mjrpadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:mjrpadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\dto\\dtoinput\\userlogininput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:dto\\dtoinput\\userlogininput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\models\\logininusermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:models\\logininusermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\models\\apiresponsemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:models\\apiresponsemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|e:\\dotnet\\mjrpadmin\\dto\\dtoinput\\facultyinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CFF16A-E49F-436E-BDFF-8CD7C693A5F1}|MJRPAdmin.csproj|solutionrelative:dto\\dtoinput\\facultyinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminMenu.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Partial\\_AdminMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Partial\\_AdminMenu.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Partial\\_AdminMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Partial\\_AdminMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T06:50:27.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Layout\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Layout\\_AuthLayout.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Layout\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Layout\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T06:50:13.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Layout\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Layout\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Layout\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Layout\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T06:50:00.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultService.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Service\\ResultService.cs",
+              "RelativeDocumentMoniker": "Service\\ResultService.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Service\\ResultService.cs",
+              "RelativeToolTip": "Service\\ResultService.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAuwHoAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:10:59.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\admin\\AuthController.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\admin\\AuthController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowE0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T10:00:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Controllers\\Web\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Web\\HomeController.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Controllers\\Web\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\Web\\HomeController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwCoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-16T11:39:12.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FacultyService.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Service\\FacultyService.cs",
+              "RelativeDocumentMoniker": "Service\\FacultyService.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Service\\FacultyService.cs",
+              "RelativeToolTip": "Service\\FacultyService.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAkwKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T08:55:18.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T06:38:43.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T12:28:27.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_PublicLayout.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Layout\\_PublicLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Layout\\_PublicLayout.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Layout\\_PublicLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Layout\\_PublicLayout.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T06:50:15.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\admin\\AdminController.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\admin\\AdminController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:58:04.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacultyController.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\FacultyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\admin\\FacultyController.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\FacultyController.cs",
+              "RelativeToolTip": "Controllers\\admin\\FacultyController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T06:53:17.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\admin\\CourseController.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\admin\\CourseController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-16T13:13:22.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UploadExcelInput.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoInput\\UploadExcelInput.cs",
+              "RelativeDocumentMoniker": "DTO\\DtoInput\\UploadExcelInput.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoInput\\UploadExcelInput.cs",
+              "RelativeToolTip": "DTO\\DtoInput\\UploadExcelInput.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-26T09:40:38.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCourse.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Course\\AddCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\AddCourse.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Course\\AddCourse.cshtml",
+              "RelativeToolTip": "Views\\Course\\AddCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-08-26T09:57:35.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAYwIYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-29T13:03:45.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "Service\\CourseService.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Service\\CourseService.cs",
+              "RelativeToolTip": "Service\\CourseService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-16T13:08:49.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Faculty.json",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\wwwroot\\Faculty.json",
+              "RelativeDocumentMoniker": "wwwroot\\Faculty.json",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\wwwroot\\Faculty.json",
+              "RelativeToolTip": "wwwroot\\Faculty.json",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-10-06T11:15:55.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Service\\LoginService.cs",
+              "RelativeDocumentMoniker": "Service\\LoginService.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Service\\LoginService.cs",
+              "RelativeToolTip": "Service\\LoginService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwCMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T10:25:06.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "home.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Home\\home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\home.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Home\\home.cshtml",
+              "RelativeToolTip": "Views\\Home\\home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-08-16T11:50:22.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\admin\\UserController.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Controllers\\admin\\UserController.cs",
+              "RelativeToolTip": "Controllers\\admin\\UserController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwGwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-29T12:36:52.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-01T12:53:17.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShowResultNew.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Home\\ShowResultNew.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ShowResultNew.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Home\\ShowResultNew.cshtml",
+              "RelativeToolTip": "Views\\Home\\ShowResultNew.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-08-17T05:41:04.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "excelFileUpload.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Faculty\\excelFileUpload.cshtml",
+              "RelativeDocumentMoniker": "Views\\Faculty\\excelFileUpload.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Faculty\\excelFileUpload.cshtml",
+              "RelativeToolTip": "Views\\Faculty\\excelFileUpload.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-25T10:23:47.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T07:33:23.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-24T10:01:14.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-08-26T05:31:50.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-07-24T13:56:59.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-01T12:52:32.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IFacultyService.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Service\\interfaces\\IFacultyService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\IFacultyService.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Service\\interfaces\\IFacultyService.cs",
+              "RelativeToolTip": "Service\\interfaces\\IFacultyService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T08:55:54.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "courseList.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Course\\courseList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\courseList.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Course\\courseList.cshtml",
+              "RelativeToolTip": "Views\\Course\\courseList.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-08-29T14:02:20.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UploadExcel.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Models\\UploadExcel.cs",
+              "RelativeDocumentMoniker": "Models\\UploadExcel.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Models\\UploadExcel.cs",
+              "RelativeToolTip": "Models\\UploadExcel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-26T09:33:48.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UploadExcelOutPut.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoOutPut\\UploadExcelOutPut.cs",
+              "RelativeDocumentMoniker": "DTO\\DtoOutPut\\UploadExcelOutPut.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoOutPut\\UploadExcelOutPut.cs",
+              "RelativeToolTip": "DTO\\DtoOutPut\\UploadExcelOutPut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-26T09:41:24.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T12:07:52.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "result.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Models\\result.cs",
+              "RelativeDocumentMoniker": "Models\\result.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Models\\result.cs",
+              "RelativeToolTip": "Models\\result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-25T12:02:17.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "getFaculty.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Faculty\\getFaculty.cshtml",
+              "RelativeDocumentMoniker": "Views\\Faculty\\getFaculty.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Faculty\\getFaculty.cshtml",
+              "RelativeToolTip": "Views\\Faculty\\getFaculty.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwE8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-25T06:04:15.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "addFaculty.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Faculty\\addFaculty.cshtml",
+              "RelativeDocumentMoniker": "Views\\Faculty\\addFaculty.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Faculty\\addFaculty.cshtml",
+              "RelativeToolTip": "Views\\Faculty\\addFaculty.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-24T14:15:22.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "Models\\Faculty.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Models\\Faculty.cs",
+              "RelativeToolTip": "Models\\Faculty.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T07:34:27.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserOutPut.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoOutPut\\UserOutPut.cs",
+              "RelativeDocumentMoniker": "DTO\\DtoOutPut\\UserOutPut.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoOutPut\\UserOutPut.cs",
+              "RelativeToolTip": "DTO\\DtoOutPut\\UserOutPut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T10:14:37.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FacultyOutPut.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoOutPut\\FacultyOutPut.cs",
+              "RelativeDocumentMoniker": "DTO\\DtoOutPut\\FacultyOutPut.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoOutPut\\FacultyOutPut.cs",
+              "RelativeToolTip": "DTO\\DtoOutPut\\FacultyOutPut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T09:16:57.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\User\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\UserList.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\User\\UserList.cshtml",
+              "RelativeToolTip": "Views\\User\\UserList.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-29T14:14:54.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "addUser.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\User\\addUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\addUser.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\User\\addUser.cshtml",
+              "RelativeToolTip": "Views\\User\\addUser.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-31T05:28:29.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "userEditById.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\User\\userEditById.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\userEditById.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\User\\userEditById.cshtml",
+              "RelativeToolTip": "Views\\User\\userEditById.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-31T04:42:52.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-29T13:40:34.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Service\\interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\IUserService.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Service\\interfaces\\IUserService.cs",
+              "RelativeToolTip": "Service\\interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-29T13:04:11.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "userProfileEdit.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\User\\userProfileEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\userProfileEdit.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\User\\userProfileEdit.cshtml",
+              "RelativeToolTip": "Views\\User\\userProfileEdit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswF8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-29T12:43:04.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoInput\\UserInput.cs",
+              "RelativeDocumentMoniker": "DTO\\DtoInput\\UserInput.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoInput\\UserInput.cs",
+              "RelativeToolTip": "DTO\\DtoInput\\UserInput.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T10:13:09.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MiscMethods.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Misc\\MiscMethods.cs",
+              "RelativeDocumentMoniker": "Misc\\MiscMethods.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Misc\\MiscMethods.cs",
+              "RelativeToolTip": "Misc\\MiscMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-26T11:27:21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Tagosys\\.nuget\\packages\\epplus\\6.2.4\\readme.txt",
+              "ToolTip": "C:\\Users\\Tagosys\\.nuget\\packages\\epplus\\6.2.4\\readme.txt",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-07-26T07:20:07.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FacultyEditByID.cshtml",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Views\\Faculty\\FacultyEditByID.cshtml",
+              "RelativeDocumentMoniker": "Views\\Faculty\\FacultyEditByID.cshtml",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Views\\Faculty\\FacultyEditByID.cshtml",
+              "RelativeToolTip": "Views\\Faculty\\FacultyEditByID.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-07-25T09:43:25.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FacultyInput.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoInput\\FacultyInput.cs",
+              "RelativeDocumentMoniker": "DTO\\DtoInput\\FacultyInput.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoInput\\FacultyInput.cs",
+              "RelativeToolTip": "DTO\\DtoInput\\FacultyInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T09:16:36.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Service\\interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Service\\interfaces\\ILoginService.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Service\\interfaces\\ILoginService.cs",
+              "RelativeToolTip": "Service\\interfaces\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T10:25:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T10:09:20.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MJRPAdmin.csproj",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\MJRPAdmin.csproj",
+              "RelativeDocumentMoniker": "MJRPAdmin.csproj",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\MJRPAdmin.csproj",
+              "RelativeToolTip": "MJRPAdmin.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-07-24T13:48:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginInUserModels.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Models\\LoginInUserModels.cs",
+              "RelativeDocumentMoniker": "Models\\LoginInUserModels.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Models\\LoginInUserModels.cs",
+              "RelativeToolTip": "Models\\LoginInUserModels.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T10:11:08.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserLoginInput.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoInput\\UserLoginInput.cs",
+              "RelativeDocumentMoniker": "DTO\\DtoInput\\UserLoginInput.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\DTO\\DtoInput\\UserLoginInput.cs",
+              "RelativeToolTip": "DTO\\DtoInput\\UserLoginInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T10:12:02.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ApiResponseModels.cs",
+              "DocumentMoniker": "E:\\dotnet\\MJRPAdmin\\Models\\ApiResponseModels.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponseModels.cs",
+              "ToolTip": "E:\\dotnet\\MJRPAdmin\\Models\\ApiResponseModels.cs",
+              "RelativeToolTip": "Models\\ApiResponseModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-24T09:28:12.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

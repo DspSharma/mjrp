@@ -1,0 +1,50 @@
+﻿@using MJRPAdmin.DTO.DtoOutPut;
+@model MJRPAdmin.DTO.DtoOutPut.FacultyOutPut;
+
+@using Microsoft.AspNetCore.Http
+@using Newtonsoft.Json
+
+
+@inject IHttpContextAccessor contextAccessors;
+@{
+    string sessionJson = string.Empty;
+    sessionJson = Context.Session.GetString("key");
+    List<Faculty> facultyList = JsonConvert.DeserializeObject<List<Faculty>>(sessionJson);
+}
+
+
+
+@{
+    var controller = ViewContext.RouteData.Values["Controller"].ToString();
+    var action = ViewContext.RouteData.Values["Action"].ToString();
+    string route = $"{controller}-{action}";
+}
+
+<style>
+    .sidebar-menu > li > a {
+        padding: 0px 5px 10px 30px!important;
+        display: block;
+    }
+</style>
+
+
+<ul class="sidebar-menu" data-widget="tree" style="font-size:14px;">
+    
+    @foreach (var menuItem in facultyList) 
+    {
+        <li id="@menuItem.Id">
+            <a href="/../Home/Course/@menuItem.Id">
+                
+                <span>@menuItem.Tittle</span>
+            </a>
+        </li>
+    }
+</ul>
+
+
+
+<script>
+    $(document).ready(function () {
+        $("#@route").addClass('active');
+    });
+</script>

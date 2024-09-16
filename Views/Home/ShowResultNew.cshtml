@@ -1,0 +1,61 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout/_PublicLayout.cshtml";
+
+}
+
+@using MJRPAdmin.DTO.DtoOutPut;
+@model MJRPAdmin.DTO.DtoOutPut.CourseOutput;
+
+
+<style>
+    .rslt {
+        float: left;
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        font-size: 10px;
+    }
+
+        .rslt td, .rslt th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        .rslt tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .rslt tr:hover {
+            background-color: #ddd;
+        }
+
+        .rslt th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4CAF50;
+            color: white;
+        }
+</style>
+
+
+
+<section class="content container-fluid">
+    <form action="" method="get">
+    <div class="row">
+            <input type="hidden" class="form-control" id="rollNo" name="resultId" value="@Context.Request.Query["resultId"]">
+        <div class="col-sm-2"><label for="inputEmail3" class="col-sm-2 control-label">RollNo:-</label></div>
+            <div class="col-sm-4"><input type="text" class="form-control" id="rollNo" name="rollNumber" placeholder="RollNo"></div>
+        <div class="col-sm-6"><button class="button" id="showTableButton">Show</button></div>
+    </div>
+    </form>
+    <div class="col-sm-12">
+        &nbsp;
+    </div>
+    <div class="col-sm-12">
+        @if (@ViewData["courseData"] != null)
+            @Html.Raw(@ViewData["courseData"].ToString())
+
+        </div>
+    </section>
+

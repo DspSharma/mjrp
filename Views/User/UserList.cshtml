@@ -1,0 +1,100 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout/_AdminLayout.cshtml";
+
+}
+
+@using MJRPAdmin.DTO.DtoOutPut;
+@model MJRPAdmin.DTO.DtoOutPut.UserOutPut;
+
+
+
+<style>
+    .search {
+        margin-left: 92px;
+        margin-top: -27px;
+    }
+</style>
+
+<section class="content-header">
+    <h1>
+        User
+    </h1>
+
+</section>
+<!-- Main content -->
+<section class="content">
+    <div>
+        <a class="btn btn-primary" href="../User/addUser">Add User</a>
+
+    </div>
+    @* <form class="search">
+    <p>
+    <input type="text" name="SearchString" placeholder="Search" />
+    <input type="submit" value="Filter" />
+    </p>
+    </form>*@
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="box">
+                <div class="box-header">
+                    <h3 class="box-title">User List</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table id="example1" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Name</th>
+                                <th>Email</th>
+                                <th>Mobile</th>
+                                <th>CreatedAt</th>
+                                <th>UpdatedAt</th>
+                                <th>Delete</th>
+                                <th>Edit</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+
+                            @foreach (var userList in ViewData["userData"] as List<UserOutPut>)
+                            {
+                                <tr>
+                                    <td>@userList.Id</td>
+
+                                    <td>@userList.Name</td>
+                                    <td>@userList.Email</td>
+                                    <td>@userList.Mobile</td>
+                                  
+                                    <td>
+                                        @Convert.ToDateTime(userList.CreatedAt).ToString("dd/MM/yyyy")
+                                    </td>
+                                    <td>
+                                        @Convert.ToDateTime(userList.UpdatedAt).ToString("dd/MM/yyyy")
+                                    </td>
+                                    <td>
+
+                                        <a class="btn btn-danger" href="../User/userDeleteById/@userList.Id"> <i class="fa fa-trash"></i></a>
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-primary" href="../User/userEditById/@userList.Id"><i class="fa fa-edit"></i></a>
+                                    </td>
+
+                                </tr>
+                            }
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@if (TempData["success"] != null)
+{
+    <script>
+        var message = '@TempData["success"]';
+        toastr.success(message);
+    </script>
+}

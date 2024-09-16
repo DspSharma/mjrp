@@ -1,0 +1,213 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout/_AdminLayout.cshtml";
+
+}
+@using MJRPAdmin.DTO.DtoOutPut;
+@using MJRPAdmin.Entities;
+@model MJRPAdmin.DTO.DtoOutPut.FacultyOutPut;
+
+@{
+    var FilterResult = new[]
+    {
+       "Visible","InVisible"
+    };
+    var excelFileUpload = ViewData["UploadExcelData"] as List<UploadResultOutput>;
+}
+
+<style>
+    .form-container {
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-top: 40px;
+    }
+
+    .text1 {
+        width: 44%;
+    }
+
+    .text2 {
+        margin-left: 740px;
+        margin-top: -73px;
+    }
+
+
+    /*table*/
+
+</style>
+
+
+
+<div class="form-container">
+    <form method="POST" action="~/Result/UploadResultByExcelFile" onsubmit="return uploadExcelFile()" enctype="multipart/form-data">
+        <div>
+        </div>
+
+
+        <div class="form-group text1">
+            <label>Faculty</label>
+
+            <select id="faculty" name="faculty" style="width:100%;height:34px;" onchange="onChangeFaculty(this)">
+                <option value="">Select Faculty</option>
+                @foreach (var facultyList in ViewData["facultydata"] as List<AcademicProg>)
+                {
+                    <option value="@facultyList.AcdProId">@facultyList.AcdProNm</option>
+                }
+            </select>
+
+        </div>
+        <div class="form-group text2">
+            <label>HeaderRow</label>
+            <input type="text" id="headerRow" name="HeaderRow" class="form-control">
+        </div>
+        <div class="form-group text1">
+            <label>ResultRow</label>
+            <input type="text" id="resultRow" name="ResultRow" class="form-control">
+        </div>
+        <div class="form-group text2">
+            <label>RowGap</label>
+            <input type="text" id="rowGap" name="RowGap" class="form-control">
+        </div>
+
+        <div class="form-group text1">
+            <label>RollNumberColumn</label>
+            <input type="text" id="RollNumberColumn" name="RollNumberColumn" class="form-control">
+        </div>
+
+        <div class="form-group text2">
+            <label>Result File</label>
+            <input type="file" id="ExcleFile" name="ExcleFile" class="form-control">
+        </div>
+        <input type="hidden" id="FacultyId" name="FacultyId" value="@Context.Request.Query["facultyId"].ToString()">
+        <input type="hidden" id="RecId" name="RecId" value="@Context.Request.Query["facultyId"].ToString()">
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+</div>
+
+
+<div class="box-body">
+    <table id="uploadFileTable" class="table table-bordered table-striped" style="display:none;">
+        <thead>
+            <tr>
+                <th>RecId</th>
+                <th>Stream</th>
+                <th>File Name</th>
+                <th>Result JSON</th>
+                <th>Result Date</th>
+                <th>No Of Rows To Display</th>
+                <th>Visible</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                var i = 0;
+            }
+            @foreach (var getuploadfile in excelFileUpload)
+            {
+
+                string jsonFile = getuploadfile.RecId + ".json";
+                string showHide = getuploadfile.IsVisible==true ? "Hide" : "Show";
+                
+                <tr>
+                    <td>@getuploadfile.RecId</td>
+                    <td>@getuploadfile.ResultDescription</td>
+                    <td><a target="_blank" href="/upload/ResultExcel/@getuploadfile.FileName">@getuploadfile.FileName</a></td>
+                    <td><a target="_blank" href="/upload/ResultJson/@jsonFile">Result File</a></td>
+                    <td>@getuploadfile.ResultDate</td>
+                    <td>@getuploadfile.NoOfRowsToDisplay</td>
+                    <td>@getuploadfile.IsVisible | <a href="ShowHide?visible=@showHide&recId=@getuploadfile.RecId">@showHide</a> </td>
+                    <th><a href="DeleteResult?recId=@getuploadfile.RecId">Delete</a></th>
+                </tr>
+            }
+
+
+    </table>
+</div>
+<script src="//cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var selectedFacultyId = '@Context.Request.Query["facultyId"].ToString()';
+        //alert(facultyId);
+        if (selectedFacultyId != "" && selectedFacultyId != null)
+            selectedFacultyId = parseInt(selectedFacultyId);
+        else
+            selectedFacultyId = 1;
+        $("#faculty").val(selectedFacultyId);
+    });
+    function onChangeFaculty(el) {
+        facultyId = el.value
+        window.location.href = "?facultyId=" + facultyId;
+    }
+    // let table = new DataTable('#uploadFileTable');
+
+    let table = new DataTable('#uploadFileTable', {
+        order: []
+    });
+    $('#uploadFileTable').show();
+
+
+
+    function uploadExcelFile() {
+        let facultyId = $('#facultyId').val();
+        let headerRow = $('#headerRow').val();
+        let resultRow = $('#resultRow').val();
+
+        let rowGap = $('#rowGap').val();
+        let RollNumberColumn = $('#RollNumberColumn').val();
+        var numbers = /^[0-9]+$/;
+
+        $(".error").remove();
+        if (facultyId == '') {
+            toastr.error("facultyId field is required");
+            return false;
+        }
+        else if (headerRow == '') {
+            toastr.error("headerRow field is required");
+            return false;
+        }
+        else if (!headerRow.match(numbers)) {
+            toastr.error("Please enter  headerRow in digit");
+            return false;
+        }
+        else if (headerRow.length < 1 || headerRow.length > 2) {
+            toastr.error("headerRow length should be between minlength 1 and maxlength 2");
+            return false;
+        }
+        else if (resultRow == '') {
+            toastr.error("resultRow field is required");
+            return false;
+        }
+        else if (!resultRow.match(numbers)) {
+            toastr.error("Please enter  resultRow in digit");
+            return false;
+        }
+        else if (resultRow.length < 1 || resultRow.length > 1000) {
+            toastr.error("resultRow length should be between minlength 1 and maxlength 1000");
+            return false;
+        }
+        else if (rowGap == '') {
+            toastr.error("rowGap field is required");
+            return false;
+        }
+        else if (!rowGap.match(numbers)) {
+            toastr.error("Please enter  rowGap in digit");
+            return false;
+        }
+        else if (rowGap.length < 1 || rowGap.length > 2) {
+            toastr.error("rowGap length should be between minlength 1 and maxlength 2");
+            return false;
+        }
+        else if (RollNumberColumn == '') {
+            toastr.error("RollNumberColumn field is required");
+            return false;
+        }
+    }
+
+    function openResultFile(fileId) {
+        alert('/upload/ResultJson/' + fileid + '.json');
+
+    }
+
+</script>
+

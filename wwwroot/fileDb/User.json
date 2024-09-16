@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "admin",
+    "Email": "admin@gmail.com",
+    "Mobile": "9001803870",
+    "Password": "123456",
+    "UserType": 1,
+    "CreatedAt": "2023-07-24T00:00:00",
+    "UpdatedAt": "2023-07-24T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "dinesh",
+    "Email": "dinesh@gmail.com",
+    "Mobile": "9928342490",
+    "Password": "123456",
+    "UserType": 1,
+    "CreatedAt": "2023-07-31T04:48:21.8504005Z",
+    "UpdatedAt": "2023-07-31T05:09:38.6653946Z"
+  },
+  {
+    "Id": 3,
+    "Name": "govind",
+    "Email": "govind@gmail.com",
+    "Mobile": "5643534543",
+    "Password": "123456",
+    "UserType": 1,
+    "CreatedAt": "2023-07-31T05:22:33.26428Z",
+    "UpdatedAt": "2023-07-31T05:43:12.9059654Z"
+  }
+]
